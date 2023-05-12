@@ -1,0 +1,7 @@
+# editor
+.ipynb_checkpoints/
+# dataset
+*.xls
+*.csv
+*.xlsx
+
