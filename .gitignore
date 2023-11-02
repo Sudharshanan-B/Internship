@@ -4,4 +4,12 @@
 *.xls
 *.csv
 *.xlsx
-
+*.dat
+*.txt
+*.bat
+*.exe
+*.rar
+*.dll
+*.zip
+*.7z
+*.out
